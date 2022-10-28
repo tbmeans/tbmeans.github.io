@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tbmeans.github.io" # the base hostname & protocol for your site
 twitter_username: timothybmeans
 github_username:  tbmeans
+linkedin_username: timothy-means-6150771b4
 
 # Build settings
 theme: minima
