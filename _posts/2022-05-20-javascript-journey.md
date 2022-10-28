@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "React chess"
+title: "JavaScript journey"
 date: 2022-05-20 14:00:00 -0500
 categories: jekyll update
+tag: JavaScript chess frontend Blog
 ---
-
-This [single-page app chess game](https://chess434.netlify.app) is live on
-Netlify. It's logo is an image of IC 434, the Horsehead Nebula, that I took
-using [iTelescope.net](https://www.itelescope.net/).
 
 Making a chess game has been the pet project nearest and dearest to my heart.
 Through making a chess game, I built up my HTML, CSS, and JavaScript skills,
