@@ -3,7 +3,7 @@ layout: post
 title: "React Chess app"
 date: 2022-10-26 16:00:00 -0500
 categories: jekyll update
-tag: React chess frontend single-page Portfolio Consider it coded!
+tag: React chess frontend single-page Portfolio
 ---
 
 This [single-page app chess game](https://chess434.netlify.app) is live on
